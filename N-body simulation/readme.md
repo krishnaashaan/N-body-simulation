@@ -14,4 +14,6 @@ A real-time gravitational simulation using Newtonian physics and Verlet integrat
 - Drag → Pan
 
 ## Run
-python main.py
+either
+python solar_system.py
+python binary.py
