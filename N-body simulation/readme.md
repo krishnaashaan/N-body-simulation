@@ -15,5 +15,6 @@ A real-time gravitational simulation using Newtonian physics and Verlet integrat
 
 ## Run
 either
-python solar_system.py
-python binary.py
+- python solar_system.py
+- python binary.py
+- Three_body_problem.py
